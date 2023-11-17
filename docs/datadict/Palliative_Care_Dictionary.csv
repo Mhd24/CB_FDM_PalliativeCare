@@ -1,0 +1,13 @@
+Variable_Name,Data_Type,Description
+person_id,INTEGER,"42,607 Unique Values - Examples:  12805698, 13195598, 12620647, 12455942, 12467314"
+datebirth,DATE,"1,195 Unique Values - minimum date of birth - 1897-11-15, maximum date of birth - 2022-02-15, Examples: 1902-07-15, 1913-07-15, 1971-10-15, 1990-02-15, 2021-05-15"
+datedeath,DATE,"354 Unique Values - minimum date of death - 1996-05-15, maximum date of death - 2023-08-15, Examples: 1996-06-15, 2010-07-15, 2012-12-15, 2015-12-15, 2021-06-15"
+year_of_death,INTEGER,"29 Unique Values - minimum year of death - 1996, maximum year of death - 2023, Examples: 1996, 2001, 2008, 2015, 2021"
+Age_at_death,INTEGER,"112 Unique Values - maximum age at death - 113,  Examples: 1, 15, 26, 48, 87, 97"
+gender,STRING,"3 Unique Values - M, F, U"
+ethnicity,STRING,"20 Unique Values - Examples: Asian or Asian British: Bangladeshi - England and Wales ethnic category 2011 census, Asian or Asian British: Pakistani - England and Wales ethnic category 2011 census, Black or African or Caribbean or Black British: other Black or African or Caribbean background - England and Wales ethnic category 2011 census, Mixed multiple ethnic groups: White and Black African - England and Wales ethnic category 2011 census, White: English or Welsh or Scottish or Northern Irish or British - England and Wales ethnic category 2011 census"
+LSOA,STRING,"1545 Unique Values - Examples: E01000301, E01002685, E01004975, E01005549, E01030184"
+IMD,INTEGER,10 Unique Values - Ranges from 1 - 10
+GP_Practice,STRING,"66 Unique Values - Examples: B82053, B83002, B83020, B83033, B83042, B83620"
+General_PCN,INTEGER,"2 Unique Values - 1 (person had general palliative care),  0 (person didn't have general palliative care)"
+Specialist_PCN,INTEGER,"2 Unique Values - 1 (person had specialist palliative care),  0 (person didn't have specialist palliative care)"
