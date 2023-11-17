@@ -1,4 +1,2 @@
 # CB_FDM_PalliativeCare 
-
-
-## Awaiting content
+This repo contais the code and data dictionaries for the palliative care FDM and death certificate data.
